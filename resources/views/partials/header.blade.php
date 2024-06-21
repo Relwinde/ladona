@@ -1,9 +1,10 @@
-@include('partials.mobile-menu')
+@include('partials.header.mobile-menu')
 
-@include('partials.side-menu-2')
+@include('partials.header.side-menu-2')
 
-@include('partials.side-menu')
+@include('partials.header.side-menu')
 
-@include('partials.top-header')
-
-@include('partials.home.slider')
+<header class="th-header header-layout2 header-absolute onepage-nav">
+    @include('partials.header.top-header')
+    @include('partials.header.main-menu')
+</header>
