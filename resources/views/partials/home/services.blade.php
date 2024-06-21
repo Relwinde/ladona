@@ -4,9 +4,9 @@ Service Area
 <section class="service-sec overflow-hidden space" id="service-sec">
     <div class="container">
         <div class="title-area text-center mb-30">
-            <span class="sub-title style2">Our Services</span>
+            <span class="sub-title style2">Nos Services</span>
             <img src="assets/img/theme-img/title_shape_1.svg" alt="">
-            <h2 class="sec-title">Professional Spa and Beauty Service</h2>
+            <h2 class="sec-title">Service Professionnel de Spa et de Beauté</h2>
         </div>
         <div class="row gy-4 justify-content-between align-items-center">
 

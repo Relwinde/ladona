@@ -9,25 +9,25 @@
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <a href="index.html"><img src="assets/img/logo-white.svg" alt="Rasm"></a>
+                                <a href="index.html"><img src="assets/img/logo-rect-white.png" alt="Rasm"></a>
                             </div>
                             <p class="about-text">Centric applications productize front end portals visualize front end.</p>
                             <div class="th-widget-about">
-                                <p class="footer-info"><i class="fa-sharp fa-solid fa-phone"></i><a class="text-inherit" href="tel:+256214203215">+256 214 203 215</a></p>
-                                <p class="footer-info"><i class="fas fa-envelope"></i><a class="text-inherit" href="mailto:info@rasm.com">info@rasm.com</a></p>
+                                <p class="footer-info"><i class="fa-sharp fa-solid fa-phone"></i><a class="text-inherit" href="tel:+256214203215">+226 25 65 95 59</a></p>
+                                <p class="footer-info"><i class="fas fa-envelope"></i><a class="text-inherit" href="mailto:info@ladona-empire28.com.com">info@ladona-empire28.com</a></p>
                             </div>
                             <div class="th-social footer-social mt-40">
                                 <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="https://www.behance.net/"><i class="fa-brands fa-behance"></i></a>
+                                <a href="https://www.facebook.com/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/"><i class="fab fa-youtube"></i></a>
+                                <a href="https://www.facebook.com/"><i class="fa-brands fa-tiktok"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget widget_nav_menu  footer-widget">
-                        <h3 class="widget_title">Quick link</h3>
+                        <h3 class="widget_title">Liens Rapides</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
                                 <li><a href="about.html">About Us</a></li>
@@ -42,7 +42,7 @@
                 </div>
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget widget_nav_menu footer-widget">
-                        <h3 class="widget_title">our services</h3>
+                        <h3 class="widget_title">Nos Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
                                 <li><a href="service.html">Hands & Feet</a></li>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="widget footer-widget">
-                        <h3 class="widget_title">Recent Posts</h3>
+                        <h3 class="widget_title">Activités récentes</h3>
                         <div class="recent-post-wrap">
                             <div class="recent-post">
                                 <div class="media-img">
@@ -91,7 +91,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <p class="copyright-text text-white"><i class="fal fa-copyright"></i> 2024 <a href="#">Rasm.</a> All Rights Reserved By</p>
+                    <p class="copyright-text text-white"><i class="fal fa-copyright"></i> 2024 <a href="#">LA DONA EMPIRE 28</a> All Rights Reserved By</p>
                 </div>
                 <div class="col-lg-6">
                     <div class="footer-links">
