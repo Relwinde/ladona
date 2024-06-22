@@ -17,10 +17,10 @@
                                 <p class="footer-info"><i class="fas fa-envelope"></i><a class="text-inherit" href="mailto:info@ladona-empire28.com.com">info@ladona-empire28.com</a></p>
                             </div>
                             <div class="th-social footer-social mt-40">
-                                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.facebook.com/"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.facebook.com/"><i class="fab fa-youtube"></i></a>
-                                <a href="https://www.facebook.com/"><i class="fa-brands fa-tiktok"></i></a>
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-youtube"></i></a>
+                                <a href="#"><i class="fa-brands fa-tiktok"></i></a>
                             </div>
                         </div>
                     </div>

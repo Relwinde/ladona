@@ -12,7 +12,7 @@
 
     @include('partials.home.appointment')
         
-    @include('partials.home.products')
+    {{-- @include('partials.home.products') --}}
     
 @endsection
 

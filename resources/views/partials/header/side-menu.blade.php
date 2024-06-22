@@ -7,22 +7,22 @@ Sidemenu
         <div class="widget footer-widget">
             <div class="th-widget-about">
                 <div class="about-logo">
-                    <a href="index.html"><img src="assets/img/logo-white.svg" alt="Rasm"></a>
+                    <a href="index.html"><img src="assets/img/logo-rect-white.png" alt="Rasm"></a>
                 </div>
-                <p class="about-text">Centric applications productize front end portals visualize front end is results and value added</p>
+                <p class="about-text">Tout ce qu'il vous faut pour rayonner</p>
                 <div class="working-time">
-                    <span class="title">We Are Available:</span>
-                    <p class="desc">Mon-Sat: 08.00 am to 5.00 pm</p>
+                    <span class="title">Nous sommes ouvert:</span>
+                    <p class="desc">Du lundi au dimanche: 08h à 20h</p>
                 </div>
                 <div class="th-social  footer-social">
-                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://www.behance.net/"><i class="fa-brands fa-behance"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fa-brands fa-tiktok"></i></a>
                 </div>
             </div>
         </div>
-        <div class="widget footer-widget">
+        {{-- <div class="widget footer-widget">
             <h3 class="widget_title">Recent Posts</h3>
             <div class="recent-post-wrap">
                 <div class="recent-post">
@@ -62,7 +62,7 @@ Sidemenu
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
 <div class="popup-search-box d-none d-lg-block">

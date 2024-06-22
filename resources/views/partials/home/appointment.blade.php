@@ -1,22 +1,24 @@
 <!--==============================
 appointment Area  
 ==============================-->
-<div class="appointment-sec bg-top-center space" id="contact-sec" data-bg-src="assets/img/bg/appointment_bg_2.jpg">
+<div class="sec-shape p-5">
+    <span class="sec-shape_img"><img src="assets/img/icon/girl.svg" alt=""></span>
+</div>
+<div class="appointment-sec bg-top-center space" id="contact-sec" data-bg-src="assets/img/bg/appointment_bg_2_2.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 wow fadeInLeft">
                 <div class="title-area mb-25 text-center text-lg-start">
-                    <span class="sub-title text-white">Make An Appointment<img src="assets/img/theme-img/title_right2.svg" alt=""></span>
-                    <h2 class="sec-title text-white">Experience the Magic of Our Nail Styling Services</h2>
+                    <span class="sub-title text-white">Passez votre commande<img src="assets/img/theme-img/title_right2.svg" alt=""></span>
+                    <h2 class="sec-title text-white">Recevez vos produits directement chez vous</h2>
                 </div>
                 <div class="appointment-work  text-center text-lg-start">
-                    <h4 class="work-title">Working Hours:</h4>
-                    <p>we are dedicated to delivering exceptional results and ensuring your nails make a bold and
-                        beautiful statement.</p>
+                    <h4 class="work-title">Nos heures d'ouverture:</h4>
+                    <p></p>
                     <ul class="working-list">
-                        <li>Monday to Friday<span>09:00am - 20:00pm</span></li>
-                        <li>Saturday<span>10:00am - 18:00pm</span></li>
-                        <li>Sunday<span>Closed</span></li>
+                        <li>Lundi au Vendredi<span>09:00 - 20:00</span></li>
+                        <li>Samedi<span>10:00 - 18:00</span></li>
+                        <li>Dimanche<span>Fermé</span></li>
                     </ul>
                 </div>
             </div>
@@ -67,7 +69,4 @@ appointment Area
             </div>
         </div>
     </div>
-</div>
-<div class="sec-shape">
-    <span class="sec-shape_img"><img src="assets/img/icon/girl.svg" alt=""></span>
 </div>

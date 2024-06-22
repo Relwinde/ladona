@@ -21,9 +21,10 @@ About Area
         </div>
         <div class="row gy-4 align-items-center">
             <div class="col-xl-6 col-xxl-8">
-                <div class="video-box1 wow fadeInDown" data-bg-src="assets/img/normal/video_1.jpg">
-                    <img src="assets/img/normal/video_1.jpg" alt="video">
-                    <a href="assets/video/presentation.mov" class="video-play-btn play-btn popup-video">
+                <div class="video-box1 wow fadeInDown" data-bg-src="assets/img/normal/video.jpg">
+                    <img src="assets/img/normal/video.jpg" alt="video">
+                    <a href="https://www.youtube.com/watch?v=Qsusjk0NYBk" class="video-play-btn play-btn popup-video">
+                        </iframe> 
                         <i class="fa-sharp fa-solid fa-play"></i></a>
                 </div>
             </div>

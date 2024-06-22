@@ -15,9 +15,9 @@
                             <ul>
                                 <li><a href="/">Acceuil</a></li>
                                 <li><a href="#about-sec">A propos de nous</a></li>
-                                <li><a href="#service-sec">Services</a></li>
-                                <li><a href="#gallery-sec">Gallerie</a></li>
-                                <li><a href="#blog-sec">Blog</a></li>
+                                <li><a href="#service-sec">Notre gamme de produits</a></li>
+                                {{-- <li><a href="#gallery-sec">Gallerie</a></li> --}}
+                                {{-- <li><a href="#blog-sec">Blog</a></li> --}}
                                 <li><a href="#contact-sec">Contactez nous</a></li>
                             </ul>
                         </nav>
@@ -25,9 +25,9 @@
                     </div>
                     <div class="col-auto d-none d-xl-block">
                         <div class="header-button">
-                            <button type="button" class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>
-                            <a href="" class="icon-btn sideMenuToggler2"><i class="fa-light fa-cart-shopping"></i>
-                                <span class="badge">5</span></a>
+                            {{-- <button type="button" class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button> --}}
+                            {{-- <a href="" class="icon-btn sideMenuToggler2"><i class="fa-light fa-cart-shopping"></i>
+                                <span class="badge">5</span></a> --}}
                             <a href="" class="icon-btn sideMenuToggler"><i class="fa-light fa-grid"></i></a>
 
                             <a href="appointment.html" class="th-btn style3"><i class="fa-light fa-cart-shopping"></i> Visitez notre boutique<i class="fa-regular fa-arrow-right ms-2"></i></a>
