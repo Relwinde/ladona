@@ -17,7 +17,7 @@ Service Area
                         <img src="assets/img/service/soin_corps.jpg" alt="Service">
                     </div>
                     <div class="service-item_wrapper">
-                        <h3 class="box-title"><a href="service-details.html">Soin de corps</a></h3>
+                        <h3 class="box-title"><a href="#">Soin de corps</a></h3>
                         <div class="service-item_icon"><i class="fa-regular fa-arrow-right"></i></div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@ Service Area
                         <img src="assets/img/service/soin_visage.jpg" alt="Service">
                     </div>
                     <div class="service-item_wrapper">
-                        <h3 class="box-title"><a href="service-details.html">Soins de visage</a></h3>
+                        <h3 class="box-title"><a href="#">Soins de visage</a></h3>
                         <div class="service-item_icon"><i class="fa-regular fa-arrow-right"></i></div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ Service Area
                         <img src="assets/img/service/massage.jpg" alt="Service">
                     </div>
                     <div class="service-item_wrapper">
-                        <h3 class="box-title"><a href="service-details.html">Massage</a></h3>
+                        <h3 class="box-title"><a href="#">Massage</a></h3>
                         <div class="service-item_icon"><i class="fa-regular fa-arrow-right"></i></div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@ Service Area
                         <img src="assets/img/service/nail.jpg" alt="Service">
                     </div>
                     <div class="service-item_wrapper">
-                        <h3 class="box-title"><a href="service-details.html">Onglerie</a></h3>
+                        <h3 class="box-title"><a href="#">Onglerie</a></h3>
                         <div class="service-item_icon"><i class="fa-regular fa-arrow-right"></i></div>
                     </div>
                 </div>

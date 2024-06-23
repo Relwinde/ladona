@@ -17,10 +17,8 @@ Choose us Area
                                 <img src="assets/img/icon/choose_1.svg" alt="image">
                             </div>
                             <div class="media-body">
-                                <h3 class="box-title">Brand Nail Art Equipment</h3>
-                                <p class="choose-about_text">From classic manicures and pedicures to intricate nail art
-                                    and
-                                    personalized nail extensions</p>
+                                <h3 class="box-title">Naturel</h3>
+                                <p class="choose-about_text"></p>
                             </div>
                         </div>
                         <div class="choose-about wow fadeInUp">
@@ -28,10 +26,8 @@ Choose us Area
                                 <img src="assets/img/icon/choose_2.svg" alt="image">
                             </div>
                             <div class="media-body">
-                                <h3 class="box-title">Best Place</h3>
-                                <p class="choose-about_text">That's why we only use premium quality nail polishes, gel,
-                                    and
-                                    other nail products from trusted brands.</p>
+                                <h3 class="box-title">Testé par des experts</h3>
+                                <p class="choose-about_text"></p>
                             </div>
                         </div>
                         <div class="choose-about wow fadeInUp">
@@ -39,10 +35,8 @@ Choose us Area
                                 <img src="assets/img/icon/choose_3.svg" alt="image">
                             </div>
                             <div class="media-body">
-                                <h3 class="box-title">Special Support</h3>
-                                <p class="choose-about_text">That's why we only use premium quality nail polishes, gel,
-                                    and
-                                    other nail products from trusted brands.</p>
+                                <h3 class="box-title">Service client disponible</h3>
+                                <p class="choose-about_text"></p>
                             </div>
                         </div>
                     </div>

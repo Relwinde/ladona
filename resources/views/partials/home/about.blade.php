@@ -16,8 +16,8 @@ About Area
             </div>
         </div>
         <div class="video-group text-center">
-            <a href="about.html" class="th-btn">En savoir plus<i class="fa-regular fa-arrow-right ms-2"></i></a>
-            <a href="tel:+256214203215" class="th-btn style2">Parlez à quelqu'un<i class="fa-regular fa-arrow-right ms-2"></i></a>
+            <a href="#" class="th-btn">En savoir plus<i class="fa-regular fa-arrow-right ms-2"></i></a>
+            <a href="#" class="th-btn style2">Parlez à quelqu'un<i class="fa-regular fa-arrow-right ms-2"></i></a>
         </div>
         <div class="row gy-4 align-items-center">
             <div class="col-xl-6 col-xxl-8">
