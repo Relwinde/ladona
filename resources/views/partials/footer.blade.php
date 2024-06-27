@@ -96,8 +96,8 @@
                 <div class="col-lg-6">
                     <div class="footer-links">
                         <ul>
-                            <li><a href="contact.html">Terms & Conditions</a></li>
-                            <li><a href="contact.html">Terms &amp; Condition</a></li>
+                            {{-- <li><a href="contact.html">Terms & Conditions</a></li> --}}
+                            <li><a href="#">Termes &amp; Conditions</a></li>
                         </ul>
                     </div>
                 </div>

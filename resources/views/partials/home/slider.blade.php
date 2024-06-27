@@ -37,10 +37,10 @@ Hero Area
                         <div class="hero-style2">
                             <span class="sub-title" data-ani="slideindown" data-ani-delay="0.1s"><img src="assets/img/theme-img/title_left.svg" alt="shape">Confiez-vous à des professionnels</span>
                             <h1 class="hero-title mb-0" data-ani="slideinleft" data-ani-delay="0.2s">
-                                Rajeunissez</h1>
+                                Ravivez</h1>
                             {{-- <span class="hero-img" data-ani="slideinup" data-ani-delay="0.3s"><img src="assets/img/hero/nail.png" alt=""></span> --}}
                             <h1 class="hero-title style2" data-ani="slideinleft" data-ani-delay="0.4s">
-                                votre beauté</h1>
+                                votre éclat</h1>
                             @include('partials.elements.discover-button')
                         </div>
                     </div>

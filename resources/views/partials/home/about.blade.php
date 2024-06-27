@@ -5,13 +5,10 @@ About Area
     <div class="container">
         <div class="about-title-area">
             <div class="title-area text-center mb-40">
-                <span class="sub-title style2">A porpos de nous</span>
+                <span class="sub-title style2">A propos de nous</span>
                 <img src="assets/img/theme-img/title_shape_1.svg" alt="">
-                <h2 class="sec-title">Révélez votre éclat intérieur, sublimez votre beauté extérieure.</h2>
-                <p class="sec-text">Plongez dans un monde de tranquillité et de transformation chez notre agence de soins personnels et spa. Chaque visite est une escapade enveloppante où le stress s'efface et où votre bien-être est la priorité absolue. Des mains expertes vous guident à travers un voyage de revitalisation et de beauté, laissant votre esprit apaisé et votre corps ressourcé. Découvrez un sanctuaire où le luxe et la relaxation se rencontrent, et où chaque détail est conçu pour raviver votre éclat naturel et révéler votre véritable luminosité intérieure.
-
-
-
+                <h2 class="sec-title">Révélez votre éclat intérieur.</h2>
+                <p class="sec-text">Chez LA DONA EMPIRE 28, nous croyons que la beauté véritable émane de l'intérieur et se reflète à l'extérieur. Nos produits cosmétiques sont conçus pour révéler votre éclat intérieur tout en sublimant votre beauté extérieure. Grâce à des ingrédients naturels et des formulations innovantes, nous vous offrons des soins de la peau et des produits de maquillage qui nourrissent, protègent et illuminent. Chaque application est une invitation à embrasser votre beauté authentique et à rayonner de confiance.
                 </p>
             </div>
         </div>

@@ -4,7 +4,7 @@ Service Area
 <section class="service-sec overflow-hidden space" id="service-sec">
     <div class="container">
         <div class="title-area text-center mb-30">
-            <span class="sub-title style2">Nos Games de Produits</span>
+            <span class="sub-title style2">Nos Games de Services</span>
             <img src="assets/img/theme-img/title_shape_1.svg" alt="">
             <h2 class="sec-title">Profitez De Nos Produits Imaginez Par Nous Pour Vous</h2>
         </div>

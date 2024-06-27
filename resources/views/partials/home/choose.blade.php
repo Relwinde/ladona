@@ -8,7 +8,7 @@ Choose us Area
                 <div class="pe-xl-5 me-xl-3">
                     <div class="title-area mt-60 mb-25 wow fadeInLeft">
                         <span class="sub-title">Pourquoi nous choisir<img src="assets/img/theme-img/title_right.svg" alt=""></span>
-                        <h2 class="sec-title">Plus de 5 Années d'expérience au compteur</h2>
+                        <h2 class="sec-title">Plus de 3 Années d'expérience au compteur</h2>
                         <p class="mt-n2 mb-35"></p>
                     </div>
                     <div class="choose-about-wrap">

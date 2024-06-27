@@ -51,10 +51,10 @@ Mobile Menu
                 </li> --}}
                 <li><a href="/">Acceuil</a></li>
                 <li><a href="#about-sec">A propos de nous</a></li>
-                <li><a href="#service-sec">Notre gamme de produits</a></li>
+                <li><a href="#service-sec">Notre gamme de services</a></li>
                 {{-- <li><a href="#gallery-sec">Gallerie</a></li> --}}
                 {{-- <li><a href="#blog-sec">Blog</a></li> --}}
-                <li><a href="#contact-sec">Contactez nous</a></li>
+                <li><a href="#contact-sec">Contactez-nous</a></li>
             </ul>
         </div>
     </div>
