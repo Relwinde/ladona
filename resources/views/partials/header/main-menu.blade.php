@@ -30,7 +30,7 @@
                                 <span class="badge">5</span></a> --}}
                             <a href="" class="icon-btn sideMenuToggler"><i class="fa-light fa-grid"></i></a>
 
-                            <a href="#" class="th-btn style3"><i class="fa-light fa-cart-shopping"></i> Visitez notre boutique<i class="fa-regular fa-arrow-right ms-2"></i></a>
+                            <a href="/shop" class="th-btn style3"><i class="fa-light fa-cart-shopping"></i> Visitez notre boutique<i class="fa-regular fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
