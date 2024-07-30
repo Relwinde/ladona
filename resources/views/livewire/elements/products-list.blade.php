@@ -37,7 +37,7 @@
                         <div class="product-content">
                             <h3 class="box-title"><a class="text-inherit" href="shop-details.html">{{ $product->name }}</a>
                             </h3>
-                            <div class="product-category"><a href="shop.html">{{ $product->category }}</a></div>
+                            <div class="product-category"><a href="shop.html">{{ $product->productCategory->name }}</a></div>
                         </div>
                         {{-- <div class="product-grid_content">
                             <span class="price">$99</span>
@@ -51,12 +51,13 @@
             </div>     
         @endforeach
     </div>                
-    <div class="th-pagination text-center pt-50">
-        <ul>
+    <div class="text-center pt-50">
+        {{ $products->links() }}
+        {{-- <ul>
             <li><a href="blog.html"><i class="fa-solid fa-arrow-left"></i></a></li>
             <li><a href="blog.html">1</a></li>
             <li><a href="blog.html">2</a></li>
             <li><a href="blog.html"><i class="fa-solid fa-arrow-right"></i></a></li>
-        </ul>
+        </ul> --}}
     </div>   
 </div>

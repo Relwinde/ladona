@@ -22,6 +22,8 @@ class ProductsList extends Component
 
         $products = Product::where('name', 'like', "%{$this->search}%")->where('category', 'like', "%{$this->category}%")->orderBy('name', 'ASC')->paginate(6);
 
+        $products->links();
+
         return view('livewire.elements.products-list', ['categories'=>$categories, 'products'=>$products]);
     }
 }
