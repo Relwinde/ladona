@@ -74,8 +74,8 @@ class ProductSeeder extends Seeder
             ['name'=> 'Savon noir blanchissant', 'category'=>8, 'img'=>'savon_blanchissant.jpg'],
             ['name'=> 'Savon Papaya', 'category'=>8, 'img'=>'savon_papaya.jpg'],
         // SERUM
-            ['name'=> 'Sérum anti vergetures', 'category'=>8, 'img'=>'serum_vergetures.jpg'],
-            ['name'=> 'Sérum DONA Gold Luxury', 'category'=>8, 'img'=>'serum_gold.jpg'],
+            ['name'=> 'Sérum anti vergetures', 'category'=>9, 'img'=>'serum_vergetures.jpg'],
+            ['name'=> 'Sérum DONA Gold Luxury', 'category'=>9, 'img'=>'serum_gold.jpg'],
     
         ];
 

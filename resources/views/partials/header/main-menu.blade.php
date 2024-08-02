@@ -6,7 +6,7 @@
                     <div class="col-auto">
                         <div class="header-logo">
                             <a href="/">
-                                <img src="assets/img/logo-rect.jpg" alt="Rasm">
+                                <img src="assets/img/logo-rect.jpg" alt="LA DONA">
                             </a>
                         </div>
                     </div>

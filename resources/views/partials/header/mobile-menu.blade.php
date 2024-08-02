@@ -4,7 +4,7 @@ Mobile Menu
 <div class="th-menu-wrapper">
     <div class="th-menu-area">
         <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo.svg" alt="Rasm"></a>
+            <a href="/"><img src="assets/img/logo-rect-white.png" alt="LA DONA"></a>
             <div class="close-menu">
                 <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             </div>

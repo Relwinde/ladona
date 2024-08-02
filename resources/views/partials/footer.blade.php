@@ -9,7 +9,7 @@
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <a href="index.html"><img src="assets/img/logo-rect-white.png" alt="Rasm"></a>
+                                <a href="index.html"><img src="assets/img/logo-rect-white.png" alt="LA DONA"></a>
                             </div>
                             <p class="about-text">Experte de la cosmétique, de la perte de poids et de la prise de forme. La qualité GARANTIE !</p>
                             <div class="th-widget-about">
@@ -92,6 +92,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <p class="copyright-text text-white"><i class="fal fa-copyright"></i> 2024 <a href="/">LA DONA EMPIRE 28</a> All Rights Reserved</p>
+                    <p class="copyright-text text-white d-lg-none"><a target="_blank" href="https://www.relwinde.com/">Relwindé built it, with 💝 </a></p>
                 </div>
                 <div class="col-lg-6">
                     <div class="footer-links">
