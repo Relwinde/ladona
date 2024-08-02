@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Acceuil</title>
+    <title>Shop</title>
     <meta name="author" content="Relwindé">
     <meta name="description" content="Experte de la cosmétique, de la perte de poids et de la prise de forme. La qualité GARANTIE !">
     <meta name="keywords" content="dona - cosmétique - spa">

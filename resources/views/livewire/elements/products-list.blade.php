@@ -25,7 +25,7 @@
             <div class="col-xl-4 col-md-6">
                 <div class="th-product product-grid">
                     <div class="product-img">
-                        <img src="assets/img/product/product_1_1.jpg" alt="Product Image">
+                        <img src="assets/img/product/{{ $product->img ?? "product_1_1.jpg" }}" alt="Product Image">
                         <div class="product-action style1">
                             <a href="cart.html"><span class="action-text">Acheter</span><span class="icon"><i class="fa-regular fa-cart-shopping"></i></span></a>
                             {{-- <a href="wishlist.html"><span class="action-text">wishlist</span><span class="icon"><i class="fal fa-heart"></i></span></a>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="product-grid_wrapper">
                         <div class="product-content">
-                            <h3 class="box-title"><a class="text-inherit" href="shop-details.html">{{ $product->name }}</a>
+                            <h3 class="box-title"><a class="text-inherit" href="#">{{ $product->name }}</a>
                             </h3>
                             <div class="product-category"><a href="shop.html">{{ $product->productCategory->name }}</a></div>
                         </div>
