@@ -12,7 +12,7 @@ appointment Area
                     <span class="sub-title text-white">Passez votre commande<img src="assets/img/theme-img/title_right2.svg" alt=""></span>
                     <h2 class="sec-title text-white">Recevez vos produits directement chez vous</h2>
                 </div>
-                <div class="appointment-work  text-center text-lg-start">
+                <div style="margin-top: 10px" class="appointment-work  text-center text-lg-start mt-sm-5">
                     <h4 class="work-title">Nos heures d'ouverture:</h4>
                     <p></p>
                     <ul class="working-list">

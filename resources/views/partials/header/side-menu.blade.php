@@ -15,10 +15,10 @@ Sidemenu
                     <p class="desc">Du lundi au dimanche: 08h à 20h</p>
                 </div>
                 <div class="th-social  footer-social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                    <a target="_blank" href="https://www.facebook.com/LaDonaEmpire28"><i class="fab fa-facebook-f"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/la.dona_empire28/profilecard"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="https://www.youtube.com/@ladona-28"><i class="fab fa-youtube"></i></a>
+                    <a target="_blank" href="https://www.tiktok.com/@empire..28"><i class="fa-brands fa-tiktok"></i></a>
                 </div>
             </div>
         </div>

@@ -17,10 +17,10 @@
                                 <p class="footer-info"><i class="fas fa-envelope"></i><a class="text-inherit" href="mailto:info@ladona-empire28.com.com">info@ladona-empire28.com</a></p>
                             </div>
                             <div class="th-social footer-social mt-40">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                                <a target="_blank" href="https://www.facebook.com/LaDonaEmpire28"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/la.dona_empire28/profilecard/"><i class="fab fa-instagram"></i></a>
+                                <a target="_blank" href="https://www.youtube.com/@ladona-28"><i class="fab fa-youtube"></i></a>
+                                <a target="_blank" href="https://www.tiktok.com/@empire..28"><i class="fa-brands fa-tiktok"></i></a>
                             </div>
                         </div>
                     </div>
@@ -91,13 +91,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <p class="copyright-text text-white"><i class="fal fa-copyright"></i> 2024 <a href="#">LA DONA EMPIRE 28</a> All Rights Reserved</p>
+                    <p class="copyright-text text-white"><i class="fal fa-copyright"></i> 2024 <a href="/">LA DONA EMPIRE 28</a> All Rights Reserved</p>
                 </div>
                 <div class="col-lg-6">
                     <div class="footer-links">
                         <ul>
                             {{-- <li><a href="contact.html">Terms & Conditions</a></li> --}}
-                            <li><a href="#">Termes &amp; Conditions</a></li>
+                            <li><a target="_blank" href="https://www.relwinde.com/">Relwindé built it, with 💝 </a></li>
                         </ul>
                     </div>
                 </div>
