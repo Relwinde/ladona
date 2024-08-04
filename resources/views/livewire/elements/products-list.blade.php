@@ -31,7 +31,7 @@
     <div class="row gy-40">
 
         @foreach ($products as $product)
-            <div class="col-xl-4 col-md-6">
+            <div class="col-xl-4 col-md-4 col-sm-4 col-6">
                 <div class="th-product product-grid">
                     <div class="product-img">
                         <img src="assets/img/product/{{ $product->img ?? "product_1_1.jpg" }}" alt="Product Image">
@@ -48,13 +48,13 @@
                             </h3>
                             <div class="product-category">{{ $product->productCategory->name }}</div>
                         </div>
-                        {{-- <div class="product-grid_content">
+                        <div class="product-grid_content">
                             <span class="price">$99</span>
-                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                            {{-- <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
                                 <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span>
                                     customer rating</span>
-                            </div>
-                        </div> --}}
+                            </div> --}}
+                        </div>
                     </div>
                 </div>
             </div>     
