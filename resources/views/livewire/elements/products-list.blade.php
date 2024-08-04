@@ -49,7 +49,7 @@
                             <div class="product-category">{{ $product->productCategory->name }}</div>
                         </div>
                         <div class="product-grid_content">
-                            <span class="price">$99</span>
+                            <span class="price">{{ $product->price }} FCFA</span>
                             {{-- <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
                                 <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span>
                                     customer rating</span>
