@@ -20,7 +20,7 @@ class ProductsList extends Component
 
         $categories = Category::all();
 
-        $products = Product::where('name', 'like', "%{$this->search}%")->where('category', 'like', "%{$this->category}%")->orderBy('name', 'ASC')->paginate(6);
+        $products = Product::where('name', 'like', "%{$this->search}%")->where('category', 'like', "%{$this->category}%")->orderBy('name', 'ASC')->paginate(12);
 
         $products->links();
 

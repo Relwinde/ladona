@@ -19,7 +19,7 @@
             </div>
         </div>
     </div>
-    <div class="text-center pt-50">
+    <div class="text-center">
         {{ $products->links() }}
         {{-- <ul>
             <li><a href="blog.html"><i class="fa-solid fa-arrow-left"></i></a></li>
@@ -28,7 +28,7 @@
             <li><a href="blog.html"><i class="fa-solid fa-arrow-right"></i></a></li>
         </ul> --}}
     </div>
-    <div class="row gy-40">
+    <div class="row">
 
         @foreach ($products as $product)
             <div class="col-xl-4 col-md-4 col-sm-4 col-6">
@@ -60,7 +60,7 @@
             </div>     
         @endforeach
     </div>                
-    <div class="text-center pt-50">
+    <div class="text-center">
         {{ $products->links() }}
         {{-- <ul>
             <li><a href="blog.html"><i class="fa-solid fa-arrow-left"></i></a></li>
